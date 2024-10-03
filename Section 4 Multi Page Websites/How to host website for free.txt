@@ -1,0 +1,6 @@
+1. Login to GIT Hub
+2. Create new repository
+3. Make it public
+4. Add your project in to repository
+5. then go to settings
+6. change branch none to main and save
